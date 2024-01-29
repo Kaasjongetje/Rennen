@@ -1,0 +1,19 @@
+{
+    "name": "Omzetten",
+    "short_name": "Omzetten",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#404048",
+    "theme_color": "#404048",
+    "icons": [
+        {
+            "src": "/logo.svg",
+            "type": "image/svg+xml",
+            "sizes": "any",
+            "purpose": "maskable"
+          }
+    ]
+
+}
+
+// {"name": "Omzetten","short_name": "Omzetten","start_url": "/","display": "standalone","background_color": "#404048","theme_color": "#17171f","icons": [{"src": "/logo.svg","type": "image/svg+xml","sizes": "any","purpose": "maskable"}]}
